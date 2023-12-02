@@ -7,3 +7,21 @@
 #
 layout: home
 ---
+## Programming foundations
+
+These are the foundations of all programming. While the syntax of programming languages may be different, they all use the same foundations.
+
+<dl>
+{% for example in site.foundations %}
+  <dt><a href="{{example.permalink}}">{{ example.title }}</a></dt>
+  <dd>{{example.summary}}</dd>
+{% endfor %}
+</dl>
+
+## Examples
+<dl>
+{% for example in site.examples %}
+  <dt><a href="{{example.permalink}}">{{ example.title }}</a></dt>
+  <dd>{{example.summary}}</dd>
+{% endfor %}
+</dl>
