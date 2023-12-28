@@ -39,7 +39,7 @@ collections:
 
 
 # Build settings
-theme: minima
+theme: minima-custom
 
 show_excerpts: true
 
