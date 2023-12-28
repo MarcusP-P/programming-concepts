@@ -37,7 +37,6 @@ collections:
   foundations:
     output: true
 
-
 # Build settings
 theme: minima-custom
 
