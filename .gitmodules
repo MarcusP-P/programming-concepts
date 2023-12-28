@@ -1,4 +1,4 @@
 [submodule "theme"]
 	path = theme
-	url = https://github.com/MarcusP-P/programming-concepts-theme.git
+	url = https://github.com/MarcusP-P/minima-custom.git
 	branch = programming-concepts
